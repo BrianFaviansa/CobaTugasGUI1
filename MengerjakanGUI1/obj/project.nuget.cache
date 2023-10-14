@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7/8y+qsA3Sk9jMWqjJzUWhY5kHLULtvMv1Au6h4aP67jjRMF3fVGF3bi7lTIPS4xHdwEvv3oudATnjTMKtjeQ==",
+  "success": true,
+  "projectFilePath": "C:\\01. KULIAH\\01. Matkul\\03. Semester 3\\Pemrograman Berorientasi Obyek\\MengerjakanGUI1\\MengerjakanGUI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
